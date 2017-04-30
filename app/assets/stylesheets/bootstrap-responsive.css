@@ -174,20 +174,8 @@
   display: none !important;
 }
 
-@media print {
-  .visible-print {
-    display: inherit !important;
-  }
-  .hidden-print {
-    display: none !important;
-  }
-}
 
-@media (min-width: 1200px) {
-  .row {
-    margin-left: -30px;
-    *zoom: 1;
-  }
+
   .row:before,
   .row:after {
     display: table;
@@ -972,7 +960,7 @@
   }
 }
 
-@media (max-width: 480px) {
+
 
   .mini-menu{margin: 0 !important;}
   .site-header{margin: 0 -20px !important; padding: 0 20px !important; padding-top: 30px !important;}
@@ -1047,7 +1035,7 @@
   .carousel-caption {
     position: static;
   }
-}
+
 
 @media (max-width: 979px) {
   body {
