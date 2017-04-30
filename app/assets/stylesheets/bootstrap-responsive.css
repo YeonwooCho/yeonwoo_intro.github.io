@@ -135,7 +135,7 @@
   .featured-blocks{padding: 30px !important; padding-bottom: 0 !important;}
   .featured-blocks p{padding-bottom: 20px !important;}
   .featured-blocks .media{margin-bottom: 30px !important;}
-  .featured-blocks .media .icon{margin-right: 10px !important; wid}
+  .featured-blocks .media .icon{margin-right: 10px !important;}
   .featured-blocks .media .media-body h1{font-size: 20px !important; line-height: 26px !important; padding-bottom: 10px !important;}
   .spacing-t{padding-top: 15px !important;}
   .featured-blocks .media .media-body .btn{font-size: 14px !important; letter-spacing: 1px !important; padding: 6px 8px !important;}
@@ -169,7 +169,6 @@
   .hidden-phone {
     display: none !important;
   }
-}
 
 .visible-print {
   display: none !important;
